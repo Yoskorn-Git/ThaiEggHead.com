@@ -26,7 +26,9 @@
     "require": "^0.4.4",
     "sha1": "^1.1.1"
   },
-  "devDependencies": {},
   "author": "",
-  "description": ""
+  "description": "",
+  "devDependencies": {
+    "dotenv": "^16.0.1"
+  }
 }
